@@ -1,0 +1,5 @@
+University,ERP_Phase,Region,Cloud_Environment
+University A,Banner SaaS,US-East,Production
+University B,Managed Cloud,EU,Staging
+University C,On-Prem,US-West,Production
+University D,Transition,APAC,Testing
